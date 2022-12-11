@@ -37,6 +37,22 @@ body {
   .collapse{
     padding-right: 0 !important;
   }
+  .list{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+  }
+  .list-item{
+    padding: auto;
+    list-style: none;
+  }
+  .jumbotron{
+    background-image: url(../images/hero-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    opacity: ;
+  }
   
   
   
