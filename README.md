@@ -1,2 +1,57 @@
-# Bootstrap-Portfolio
-Kamel Beloula Portfolio
+# Kamel Beloula Portfolio
+
+
+## Description
+
+This application serves as my portfolio. Users can click on work to view websites I have created independently and collaboratively. Users can click on about and resume to learn more about me and my skills. Users can click on contact and send me a message or an e-mail using the contact details on the page.   Created with HTML, styled with Bootstrap CSS and customised CSS. Mobile responsive.
+
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Deployed application](#deployed-application)
+- [Screen Shot](#screenshot)
+- [Credits](#credits)
+- [License](#license)
+
+
+## Installation
+
+
+In order to install this project, you must login to GitHub and go to github.com/iescandon/inescandon. Once there you will click on the green button that says clone or download. You will be given choices on how to download: using the ssh/html key or downloading the zip file.
+
+Using SSH/HTML Key: You will copy the link shown and open up either terminal (mac: pre-installed) or gitbash (pc: must be installed). Once the application is open, you will type git clone paste url here. Once you have cloned the htx-tacos repo, cd into the repo and type "open ." to open the folder which contains all files used for the website. You can also type "code ." to open the repo in VS code.
+
+Using Download ZIP: Click on Download Zip. Locate the file and double click it to unzip the file. Locate the unzipped folder and and open it. All the files for the website will be within this folder.
+
+## Usage
+
+Simply click on the live link listed above and use the website as normal
+
+
+## Deployed application
+https://kamel-beloula.github.io/Kamel-Beloula/
+
+
+## Screenshot
+![Deployed application screen shot](./images/screenshot.png)
+
+
+## Credits
+
+Trilogy Education Services Frontend Web Development bootcamp website.  
+[mdbootstrap.com](https://mdbootstrap.com)
+
+
+## License
+
+MIT License
+
+Copyright (c) 2022 kamel beloula
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
