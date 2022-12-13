@@ -26,14 +26,12 @@ body {
     padding: .5rem;
   }
   .nav-link{
-    color: #5b5555!important;
+    color: rgb(105, 101, 101)!important;
   }
   .nav-link:hover {
-    color: #4981b3!important;
+    color: #f5f230!important;
   }
-  .containerrow{
-    width: 100%;
-  } 
+  
   .collapse{
     padding-right: 0 !important;
   }
@@ -50,19 +48,36 @@ body {
     background-image: url(../images/hero-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 600px;
+    height: 400px;
     opacity: ;
   }
   .id-img{
     height: 200px!important;
     border-radius: 50%;
     border: solid 2px;
+    border:hover:#f5f230
   }
   .jumboCopy{
   align-items: center;
   }
   footer{
-    width: 100%!important;
+    height: 150px!important;
+    width: auto!important;
+    margin-top: 1rem;
+  }
+  ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  li{
+    padding-left: 2rem;
+  }
+  .section-header{
+    border-right: 3px solid #232425;
+  }
+  .py-1{
+    align-self: flex-end;
   }
   
   
