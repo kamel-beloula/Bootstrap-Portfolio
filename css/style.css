@@ -4,13 +4,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: #616971;
   }
-  
-  /*============= TOP BAR HEADER =============*/
-  
-  
-  
-  /*============= NAVIGATION =============*/
-  
+  /* navigation */
   .navbar-brand img{
     height: 3rem;
     border-radius: 50%;
@@ -31,8 +25,7 @@ body {
   .nav-link:hover {
     color: #f5f230!important;
   }
-  
-  .collapse{
+    .collapse{
     padding-right: 0 !important;
   }
   .list{
@@ -44,6 +37,8 @@ body {
     padding: auto;
     list-style: none;
   }
+
+  /* hero section */
   .jumbotron{
     background-image: url(../images/hero-bg.jpg);
     background-repeat: no-repeat;
@@ -60,6 +55,8 @@ body {
   .jumboCopy{
   align-items: center;
   }
+
+  /* footer */
   footer{
     height: 150px!important;
     width: auto!important;
@@ -79,18 +76,5 @@ body {
   .py-1{
     align-self: flex-end;
   }
-  
-  
-  
-  
-  /*===== FIXED BACKGROUND IMG =====*/
-  
-  
-  /*-- Emoji Navbar --*/
-  
-  
-  
-  /*============= FOOTER =============*/
-  
   
   

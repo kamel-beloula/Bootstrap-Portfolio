@@ -31,7 +31,7 @@ Simply click on the live link listed above and use the website as normal
 
 
 ## Deployed application
-https://kamel-beloula.github.io/Kamel-Beloula/
+https://kamel-beloula.github.io/Bootstrap-Portfolio/
 
 
 ## Screenshot
